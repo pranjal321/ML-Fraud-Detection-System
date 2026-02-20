@@ -139,7 +139,5 @@ streamlit run streamlit_app.py
 <img width="1910" height="1018" alt="20 02 2026_11 03 48_REC" src="https://github.com/user-attachments/assets/2ba60744-dbf0-46d9-afec-cacbe92d7175" />
 
 
-<img width="1910" height="1018" alt="20 02 2026_11 03 48_REC" src="https://github.com/user-attachments/assets/f31c8fdb-1038-433b-96d4-ab1b59504060" />
-
 
 
